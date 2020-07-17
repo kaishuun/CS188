@@ -1,7 +1,7 @@
 # CS188
 A collection of projects from UC Berkeley's CS 188- Intro to AI Course
 
-This repo contains 4 project those being: 
+This repo contains 4 projects those being: 
 
 ### [Search](http://ai.berkeley.edu/search.html)
 
